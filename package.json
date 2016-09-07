@@ -1,0 +1,14 @@
+{
+  "name": "linux-node-clipboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": " ",
+  "scripts": {
+    "install": "node-gyp rebuild"
+  },
+  "author": "disoul <starkyds@gmail.com> (http://disoul.me)",
+  "license": "GPL-3.0",
+  "gypfile": true,
+  "dependencies": {
+  }
+}

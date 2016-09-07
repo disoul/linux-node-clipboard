@@ -1,0 +1,16 @@
+# common file
+/node_modules
+.DS_Store
+
+# Build
+/build
+
+# Vim
+# swap
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+# session
+Session.vim
+# temporary
+.netrwhist
+*~
